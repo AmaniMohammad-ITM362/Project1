@@ -37,3 +37,14 @@ form {
     flex-direction: column;
     justify-content: center;
 }
+@media (max-width: 750px) {
+     .container {
+        grid-template-columns: 1fr;
+    }
+    .left-box{
+        order:1;
+    }
+    .right-box{
+        order: 2;
+    }
+} 
