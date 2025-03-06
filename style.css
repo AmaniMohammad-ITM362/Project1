@@ -7,6 +7,10 @@ body {
     justify-content: center;
     align-items: center;  
 }
+h1, p{
+    color: #01002c;
+}
+
 .left-box {
     color: rgb(32, 3, 3);
 }
