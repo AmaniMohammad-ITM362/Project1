@@ -48,6 +48,10 @@ form {
     border-radius: 5px;
 }
 
+.submit-btn:hover {
+    background: #30165fd5;
+}
+
 @media (max-width: 750px) {
      .container {
         grid-template-columns: 1fr;
