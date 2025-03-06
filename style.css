@@ -37,6 +37,17 @@ form {
     flex-direction: column;
     justify-content: center;
 }
+.submit-btn {
+    margin-top: 20px;
+    background: #7c3d8b;
+    color: rgb(245, 239, 239);
+    padding: 8px;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
 @media (max-width: 750px) {
      .container {
         grid-template-columns: 1fr;
