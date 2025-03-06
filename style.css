@@ -21,7 +21,6 @@ img{
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 80%;
-    max-width: 900px;
     max-width: 1500px;
     background: rgb(223, 224, 233);
     border-radius: 10px;
