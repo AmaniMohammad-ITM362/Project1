@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    padding: 0;
     background: linear-gradient(to bottom, #080742, #661aa8);
 }
 img{
