@@ -13,6 +13,7 @@ img{
     width: 80%;
     max-width: 900px;
     background: rgb(223, 224, 233);
+    border-radius: 10px;
 }
  
 .box {
