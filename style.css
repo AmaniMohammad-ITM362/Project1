@@ -11,4 +11,8 @@ img{
     max-width: 900px;
     background: rgb(223, 224, 233);
 }
+ 
+.box {
+    padding: 30px;
+    text-align: center;
 }
