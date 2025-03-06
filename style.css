@@ -47,4 +47,8 @@ form {
     .right-box{
         order: 2;
     }
+    .submit-btn{
+        align-self: center;
+        width: 80%;
+    }
 } 
