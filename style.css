@@ -41,6 +41,20 @@ form {
     flex-direction: column;
     justify-content: center;
 }
+label {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #280c5f;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #7410cc;
+    border-radius: 10px;
+}
+
 .submit-btn {
     margin-top: 20px;
     background: #7c3d8b;
