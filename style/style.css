@@ -37,6 +37,7 @@ form {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    font-family: "Nunito", "Helvetica", "Arial", sans-serif; /*Nunito is main font*/
 }
 label {
     margin-top: 10px;
