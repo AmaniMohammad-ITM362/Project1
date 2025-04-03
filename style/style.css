@@ -28,7 +28,6 @@ h1, p{
 }
 .left-box img{
     order:2;
-    border: 2px solid red;
 }
 .left-box p{
     order:3;
